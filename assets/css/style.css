@@ -382,7 +382,7 @@ p {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #b8a07e;
+  color:#b8a07e;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -439,7 +439,7 @@ p {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 120px 0 0 0;
-  background-color: white;
+  background-color: rgba(255, 253, 236, 0.938);
   min-height: 40px;
 }
 @media (max-width: 992px) {
@@ -498,7 +498,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #46013c8f;
 }
 
 #about .div-img-bg .about-img img {
@@ -551,7 +551,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #46013c8f; 
   line-height: 44px;
 }
 
